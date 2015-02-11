@@ -1,3 +1,4 @@
+#2
 #1
 # Ruby on Rails Tutorial: sample application
 
